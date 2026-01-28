@@ -5,7 +5,7 @@ Streamlit app of results can be found at: https://wnba-nba-biomechanics-colbymor
 
 ## 🏀 Overview
 
-This project analyzes free throw shooting mechanics using **real motion capture data** from the [MLSE Sport Performance Lab (SPL) Open Data](https://github.com/mlsedigital/SPL-Open-Data) repository. We examine biomechanical differences between made and missed shots, then extrapolate implications for WNBA vs NBA players based on height-adjusted physics.
+This project analyzes free throw shooting mechanics using **real motion capture data** from the [MLSE Sport Performance Lab (SPL) Open Data](https://github.com/mlsedigital/SPL-Open-Data) repository. I examine biomechanical differences between made and missed shots, then extrapolate implications for WNBA vs NBA players based on height-adjusted physics.
 
 **Key Question:** What biomechanical factors most predict free throw success, and how do requirements differ for shorter vs taller players?
 
