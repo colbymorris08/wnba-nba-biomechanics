@@ -1,5 +1,8 @@
 # WNBA vs NBA Shooting Biomechanics Analysis
 
+Streamlit app of results can be found at: https://wnba-nba-biomechanics-colbymorris08.streamlit.app/
+
+
 ## 🏀 Overview
 
 This project analyzes free throw shooting mechanics using **real motion capture data** from the [MLSE Sport Performance Lab (SPL) Open Data](https://github.com/mlsedigital/SPL-Open-Data) repository. We examine biomechanical differences between made and missed shots, then extrapolate implications for WNBA vs NBA players based on height-adjusted physics.
@@ -142,13 +145,13 @@ pip install numpy scipy matplotlib
 ### 2. Run Analysis
 ```bash
 # Process raw SPL data
-python src/process_spl_data.py
+python3 src/process_spl_data.py
 
 # Run statistical analysis
-python src/biomechanics_analysis.py
+python3 src/biomechanics_analysis.py
 
 # Generate visualizations
-python src/generate_plots.py
+python3 src/generate_plots.py
 ```
 
 ### 3. View Results
