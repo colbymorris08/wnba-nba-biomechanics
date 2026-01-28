@@ -1,0 +1,104 @@
+{
+  "sample_size": {
+    "total": 125,
+    "made": 88,
+    "missed": 37
+  },
+  "ft_pct": 70.39999999999999,
+  "statistical_tests": [
+    {
+      "metric": "elbow_rom",
+      "label": "Elbow ROM (\u00b0)",
+      "made_mean": 102.40889420236623,
+      "missed_mean": 97.76256471797863,
+      "diff": 4.646329484387593,
+      "t_stat": 2.6902531357027852,
+      "p_val": 0.008132146330895713,
+      "effect_size": 0.5712084612260752,
+      "sig": "***"
+    },
+    {
+      "metric": "hip_rom",
+      "label": "Hip ROM (\u00b0)",
+      "made_mean": 46.8038296395047,
+      "missed_mean": 47.60679306067196,
+      "diff": -0.8029634211672629,
+      "t_stat": -1.6259714911158534,
+      "p_val": 0.10651517471842925,
+      "effect_size": -0.30076230360722217,
+      "sig": ""
+    },
+    {
+      "metric": "hip_drop",
+      "label": "Hip Drop (m)",
+      "made_mean": 0.6652045454545454,
+      "missed_mean": 0.669554054054054,
+      "diff": -0.004349508599508556,
+      "t_stat": -0.948233927654286,
+      "p_val": 0.34486967811697855,
+      "effect_size": -0.17559255643273006,
+      "sig": ""
+    },
+    {
+      "metric": "knee_min",
+      "label": "Knee Min Angle (\u00b0)",
+      "made_mean": 118.07996879530505,
+      "missed_mean": 117.85860227879174,
+      "diff": 0.22136651651331363,
+      "t_stat": 0.5750815354875223,
+      "p_val": 0.5662866285606144,
+      "effect_size": 0.110981446276803,
+      "sig": ""
+    },
+    {
+      "metric": "elbow_max",
+      "label": "Elbow Max Angle (\u00b0)",
+      "made_mean": 167.65848665036535,
+      "missed_mean": 167.84826068282263,
+      "diff": -0.18977403245727942,
+      "t_stat": -0.5560797705454817,
+      "p_val": 0.5791665042341662,
+      "effect_size": -0.11334868650108391,
+      "sig": ""
+    },
+    {
+      "metric": "knee_rom",
+      "label": "Knee ROM (\u00b0)",
+      "made_mean": 59.3309099645819,
+      "missed_mean": 59.12773471502617,
+      "diff": 0.20317524955572708,
+      "t_stat": 0.4755252126939582,
+      "p_val": 0.6352560837677643,
+      "effect_size": 0.09284702200528851,
+      "sig": ""
+    },
+    {
+      "metric": "entry_angle",
+      "label": "Entry Angle (\u00b0)",
+      "made_mean": 43.901931818181815,
+      "missed_mean": 43.75027027027027,
+      "diff": 0.1516615479115444,
+      "t_stat": 0.43020264214792103,
+      "p_val": 0.6678010519280233,
+      "effect_size": 0.08029944479342681,
+      "sig": ""
+    },
+    {
+      "metric": "release_height",
+      "label": "Release Height (m)",
+      "made_mean": 6.8244204545454545,
+      "missed_mean": 6.828675675675677,
+      "diff": -0.004255221130222253,
+      "t_stat": -0.4180880055822512,
+      "p_val": 0.6766117864130508,
+      "effect_size": -0.07665679704353556,
+      "sig": ""
+    }
+  ],
+  "entry_angle_stats": {
+    "made_mean": 43.901931818181815,
+    "missed_mean": 43.75027027027027,
+    "optimal_range_made_pct": 84.0909090909091,
+    "optimal_range_missed_pct": 59.45945945945946
+  }
+}

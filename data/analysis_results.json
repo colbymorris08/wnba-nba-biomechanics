@@ -1,0 +1,639 @@
+{
+  "made_vs_missed": [
+    {
+      "metric": "shoulder_mean_velocity",
+      "made_mean": 3.41984703920138,
+      "missed_mean": 3.121512828879595,
+      "difference": 0.298334210321785,
+      "pct_diff": 9.557359737934062,
+      "t_stat": 2.8965796398628925,
+      "p_value": 0.004466634181457445,
+      "significant": true
+    },
+    {
+      "metric": "knee_prep",
+      "made_mean": 130.99606875618727,
+      "missed_mean": 131.46147720498456,
+      "difference": -0.46540844879729093,
+      "pct_diff": -0.3540264864600534,
+      "t_stat": -2.6823576927573125,
+      "p_value": 0.008315512200852028,
+      "significant": true
+    },
+    {
+      "metric": "hip_release",
+      "made_mean": 164.29826163646388,
+      "missed_mean": 164.55393872627772,
+      "difference": -0.25567708981384385,
+      "pct_diff": -0.15537585535350945,
+      "t_stat": -2.3066904204837195,
+      "p_value": 0.022744775309548698,
+      "significant": true
+    },
+    {
+      "metric": "wrist_peak_velocity",
+      "made_mean": 9.62048076923077,
+      "missed_mean": 10.617142857142861,
+      "difference": -0.9966620879120907,
+      "pct_diff": -9.38729092489859,
+      "t_stat": -2.2216440551946355,
+      "p_value": 0.0281365998368185,
+      "significant": true
+    },
+    {
+      "metric": "shoulder_peak_velocity",
+      "made_mean": 11.047884615384616,
+      "missed_mean": 10.118095238095242,
+      "difference": 0.9297893772893744,
+      "pct_diff": 9.189371669369754,
+      "t_stat": 2.156706855645547,
+      "p_value": 0.032974012329025464,
+      "significant": true
+    },
+    {
+      "metric": "wrist_min",
+      "made_mean": 156.66288461538463,
+      "missed_mean": 155.96571428571428,
+      "difference": 0.6971703296703424,
+      "pct_diff": 0.44700229974466893,
+      "t_stat": 2.137240384954175,
+      "p_value": 0.034557955580172016,
+      "significant": true
+    },
+    {
+      "metric": "elbow_peak_velocity",
+      "made_mean": 10.358749999999999,
+      "missed_mean": 9.56238095238095,
+      "difference": 0.7963690476190486,
+      "pct_diff": 8.32814600866492,
+      "t_stat": 2.1356573634486136,
+      "p_value": 0.03468960832076766,
+      "significant": true
+    },
+    {
+      "metric": "ankle_release",
+      "made_mean": 119.29873331641063,
+      "missed_mean": 119.09054594935142,
+      "difference": 0.20818736705921026,
+      "pct_diff": 0.17481435272599324,
+      "t_stat": 2.0894129913613995,
+      "p_value": 0.0387315157288076,
+      "significant": true
+    },
+    {
+      "metric": "ankle_max",
+      "made_mean": 122.58567307692307,
+      "missed_mean": 122.18333333333335,
+      "difference": 0.4023397435897209,
+      "pct_diff": 0.32929183761264835,
+      "t_stat": 1.9208242189072866,
+      "p_value": 0.05706829265136682,
+      "significant": false
+    },
+    {
+      "metric": "ankle_mean_velocity",
+      "made_mean": 1.9723078483817487,
+      "missed_mean": 1.8757934813590582,
+      "difference": 0.09651436702269045,
+      "pct_diff": 5.145255486908049,
+      "t_stat": 1.8940433075595327,
+      "p_value": 0.06056772577212879,
+      "significant": false
+    },
+    {
+      "metric": "elbow_release",
+      "made_mean": 162.77322051388094,
+      "missed_mean": 163.06827501034155,
+      "difference": -0.2950544964606081,
+      "pct_diff": -0.18093923937191103,
+      "t_stat": -1.8836119509239948,
+      "p_value": 0.06197866186069558,
+      "significant": false
+    },
+    {
+      "metric": "release_angle",
+      "made_mean": 52.06346153846154,
+      "missed_mean": 50.88095238095238,
+      "difference": 1.182509157509159,
+      "pct_diff": 2.3240704078326946,
+      "t_stat": 1.641370147172103,
+      "p_value": 0.10327518264840581,
+      "significant": false
+    },
+    {
+      "metric": "elbow_peak_timing",
+      "made_mean": 0.3398523517642577,
+      "missed_mean": 0.4474361984256178,
+      "difference": -0.10758384666136012,
+      "pct_diff": -24.04451115933682,
+      "t_stat": -1.624868504083894,
+      "p_value": 0.10675034729430698,
+      "significant": false
+    },
+    {
+      "metric": "wrist_rom",
+      "made_mean": 47.971442307692314,
+      "missed_mean": 48.73238095238096,
+      "difference": -0.7609386446886433,
+      "pct_diff": -1.5614641226583974,
+      "t_stat": -1.4905259185378754,
+      "p_value": 0.13864601318520842,
+      "significant": false
+    },
+    {
+      "metric": "hip_peak_timing",
+      "made_mean": 0.2702213217863213,
+      "missed_mean": 0.20015855673047525,
+      "difference": 0.07006276505584605,
+      "pct_diff": 35.0036322205248,
+      "t_stat": 1.2910158394698925,
+      "p_value": 0.19911936065472882,
+      "significant": false
+    },
+    {
+      "metric": "ankle_peak_timing",
+      "made_mean": 0.5028228273892126,
+      "missed_mean": 0.4139576715874501,
+      "difference": 0.08886515580176246,
+      "pct_diff": 21.46720834064537,
+      "t_stat": 1.2031107645407602,
+      "p_value": 0.2312440973904863,
+      "significant": false
+    },
+    {
+      "metric": "elbow_max",
+      "made_mean": 167.87365384615384,
+      "missed_mean": 168.36095238095237,
+      "difference": -0.48729853479852636,
+      "pct_diff": -0.2894367891765723,
+      "t_stat": -1.202133030062589,
+      "p_value": 0.23162124557627267,
+      "significant": false
+    },
+    {
+      "metric": "hip_mean_velocity",
+      "made_mean": 2.314276365240774,
+      "missed_mean": 2.376560879669296,
+      "difference": -0.06228451442852201,
+      "pct_diff": -2.620783459045621,
+      "t_stat": -0.9995783632783708,
+      "p_value": 0.31947700933071493,
+      "significant": false
+    },
+    {
+      "metric": "hip_prep",
+      "made_mean": 140.66633441326928,
+      "missed_mean": 140.8163048253489,
+      "difference": -0.14997041207962525,
+      "pct_diff": -0.10650074383476399,
+      "t_stat": -0.9958433350614503,
+      "p_value": 0.3212813424632654,
+      "significant": false
+    },
+    {
+      "metric": "elbow_rom",
+      "made_mean": 81.79894230769231,
+      "missed_mean": 82.36238095238096,
+      "difference": -0.5634386446886452,
+      "pct_diff": -0.6840970819121969,
+      "t_stat": -0.9354085535223013,
+      "p_value": 0.35141065241132197,
+      "significant": false
+    },
+    {
+      "metric": "ankle_rom",
+      "made_mean": 30.081346153846155,
+      "missed_mean": 29.784761904761904,
+      "difference": 0.2965842490842512,
+      "pct_diff": 0.995758334522171,
+      "t_stat": 0.8944845935124323,
+      "p_value": 0.37280965639943975,
+      "significant": false
+    },
+    {
+      "metric": "wrist_prep",
+      "made_mean": 161.16214558395194,
+      "missed_mean": 161.02303813491207,
+      "difference": 0.13910744903986938,
+      "pct_diff": 0.08638978040106232,
+      "t_stat": 0.8436753729995732,
+      "p_value": 0.40048862672116936,
+      "significant": false
+    },
+    {
+      "metric": "elbow_prep",
+      "made_mean": 92.02889773943691,
+      "missed_mean": 92.17992561725544,
+      "difference": -0.151027877818521,
+      "pct_diff": -0.16384031209312414,
+      "t_stat": -0.7732805939841358,
+      "p_value": 0.4408399041177814,
+      "significant": false
+    },
+    {
+      "metric": "ankle_prep",
+      "made_mean": 95.67682672471446,
+      "missed_mean": 95.76563526222455,
+      "difference": -0.08880853751008999,
+      "pct_diff": -0.09273528783776697,
+      "t_stat": -0.7535054035034668,
+      "p_value": 0.4525862000535753,
+      "significant": false
+    },
+    {
+      "metric": "ankle_peak_velocity",
+      "made_mean": 6.262307692307692,
+      "missed_mean": 6.437142857142858,
+      "difference": -0.1748351648351658,
+      "pct_diff": -2.716036737341679,
+      "t_stat": -0.6998345809995422,
+      "p_value": 0.48535210881643753,
+      "significant": false
+    },
+    {
+      "metric": "shoulder_release",
+      "made_mean": 108.58129166819782,
+      "missed_mean": 108.72218606356174,
+      "difference": -0.14089439536391524,
+      "pct_diff": -0.1295912089934844,
+      "t_stat": -0.6830606952711583,
+      "p_value": 0.49585307344280827,
+      "significant": false
+    },
+    {
+      "metric": "knee_max",
+      "made_mean": 172.1973076923077,
+      "missed_mean": 172.33333333333334,
+      "difference": -0.13602564102563974,
+      "pct_diff": -0.0789317065912803,
+      "t_stat": -0.6220964463362132,
+      "p_value": 0.5350299244677179,
+      "significant": false
+    },
+    {
+      "metric": "hip_rom",
+      "made_mean": 31.227884615384617,
+      "missed_mean": 31.50095238095238,
+      "difference": -0.27306776556776313,
+      "pct_diff": -0.8668555866675272,
+      "t_stat": -0.5896342423158257,
+      "p_value": 0.5565174378403841,
+      "significant": false
+    },
+    {
+      "metric": "knee_release",
+      "made_mean": 168.80185317624336,
+      "missed_mean": 168.8674853487729,
+      "difference": -0.065632172529547,
+      "pct_diff": -0.03886608034340812,
+      "t_stat": -0.5805426998124584,
+      "p_value": 0.5626108141217097,
+      "significant": false
+    },
+    {
+      "metric": "hip_min",
+      "made_mean": 136.25,
+      "missed_mean": 136.0509523809524,
+      "difference": 0.19904761904760448,
+      "pct_diff": 0.1463037307451233,
+      "t_stat": 0.5408021774124293,
+      "p_value": 0.5896219738173147,
+      "significant": false
+    },
+    {
+      "metric": "wrist_mean_velocity",
+      "made_mean": 3.0317775149899475,
+      "missed_mean": 3.0745822261235687,
+      "difference": -0.042804711133621165,
+      "pct_diff": -1.392212274237639,
+      "t_stat": -0.4887685176154706,
+      "p_value": 0.625875936252795,
+      "significant": false
+    },
+    {
+      "metric": "hip_peak_velocity",
+      "made_mean": 7.964807692307695,
+      "missed_mean": 8.139999999999997,
+      "difference": -0.17519230769230187,
+      "pct_diff": -2.1522396522395817,
+      "t_stat": -0.4616621737701866,
+      "p_value": 0.6451390449369616,
+      "significant": false
+    },
+    {
+      "metric": "ankle_min",
+      "made_mean": 92.50432692307693,
+      "missed_mean": 92.39857142857144,
+      "difference": 0.10575549450548749,
+      "pct_diff": 0.11445576795225842,
+      "t_stat": 0.4447743380454341,
+      "p_value": 0.6572645156945596,
+      "significant": false
+    },
+    {
+      "metric": "release_velocity",
+      "made_mean": 22.04615384615385,
+      "missed_mean": 21.89047619047619,
+      "difference": 0.15567765567766045,
+      "pct_diff": 0.7111661451448488,
+      "t_stat": 0.41966006462717714,
+      "p_value": 0.6754658932649051,
+      "significant": false
+    },
+    {
+      "metric": "elbow_mean_velocity",
+      "made_mean": 3.256579898615437,
+      "missed_mean": 3.288741404748004,
+      "difference": -0.03216150613256685,
+      "pct_diff": -0.9779274857589842,
+      "t_stat": -0.4001850049677688,
+      "p_value": 0.6897144285849417,
+      "significant": false
+    },
+    {
+      "metric": "knee_peak_timing",
+      "made_mean": 0.22993414298635242,
+      "missed_mean": 0.24642858248313312,
+      "difference": -0.0164944394967807,
+      "pct_diff": -6.693395437564417,
+      "t_stat": -0.3734410824613266,
+      "p_value": 0.7094630449001746,
+      "significant": false
+    },
+    {
+      "metric": "shoulder_min",
+      "made_mean": 55.68625,
+      "missed_mean": 55.834761904761905,
+      "difference": -0.14851190476190368,
+      "pct_diff": -0.265984665637551,
+      "t_stat": -0.3592365252571149,
+      "p_value": 0.72003411423888,
+      "significant": false
+    },
+    {
+      "metric": "release_height",
+      "made_mean": 7.4934615384615375,
+      "missed_mean": 7.46952380952381,
+      "difference": 0.023937728937727165,
+      "pct_diff": 0.3204719544130246,
+      "t_stat": 0.3250190173674028,
+      "p_value": 0.7457188499069526,
+      "significant": false
+    },
+    {
+      "metric": "hip_max",
+      "made_mean": 167.4778846153846,
+      "missed_mean": 167.55190476190475,
+      "difference": -0.0740201465201551,
+      "pct_diff": -0.04417744258135381,
+      "t_stat": -0.32097632422427624,
+      "p_value": 0.748773060230628,
+      "significant": false
+    },
+    {
+      "metric": "shoulder_rom",
+      "made_mean": 58.811346153846145,
+      "missed_mean": 58.60619047619048,
+      "difference": 0.205155677655668,
+      "pct_diff": 0.3500580330997886,
+      "t_stat": 0.3040600245080952,
+      "p_value": 0.7615959480459713,
+      "significant": false
+    },
+    {
+      "metric": "wrist_peak_timing",
+      "made_mean": 0.6027724887269954,
+      "missed_mean": 0.625410738801647,
+      "difference": -0.02263825007465159,
+      "pct_diff": -3.619741182895079,
+      "t_stat": -0.2992585216753102,
+      "p_value": 0.7652478646242021,
+      "significant": false
+    },
+    {
+      "metric": "knee_rom",
+      "made_mean": 46.59336538461538,
+      "missed_mean": 46.73285714285715,
+      "difference": -0.13949175824176763,
+      "pct_diff": -0.29848754553002577,
+      "t_stat": -0.27781098043690994,
+      "p_value": 0.781623885403496,
+      "significant": false
+    },
+    {
+      "metric": "knee_peak_velocity",
+      "made_mean": 9.474807692307694,
+      "missed_mean": 9.354761904761903,
+      "difference": 0.12004578754579143,
+      "pct_diff": 1.2832586095503287,
+      "t_stat": 0.26637949796060184,
+      "p_value": 0.790392989168617,
+      "significant": false
+    },
+    {
+      "metric": "shoulder_peak_timing",
+      "made_mean": 0.5140394819575601,
+      "missed_mean": 0.4957121187346088,
+      "difference": 0.01832736322295131,
+      "pct_diff": 3.6971787717708184,
+      "t_stat": 0.22605878712201385,
+      "p_value": 0.821530914526609,
+      "significant": false
+    },
+    {
+      "metric": "shoulder_prep",
+      "made_mean": 61.37811888842524,
+      "missed_mean": 61.420692791219054,
+      "difference": -0.042573902793812124,
+      "pct_diff": -0.06931524354264311,
+      "t_stat": -0.21876549402793705,
+      "p_value": 0.8271953064369789,
+      "significant": false
+    },
+    {
+      "metric": "knee_mean_velocity",
+      "made_mean": 2.674345372048871,
+      "missed_mean": 2.6881900024295353,
+      "difference": -0.013844630380664302,
+      "pct_diff": -0.5150168093829598,
+      "t_stat": -0.18642309166220525,
+      "p_value": 0.8524201051902015,
+      "significant": false
+    },
+    {
+      "metric": "elbow_min",
+      "made_mean": 86.07471153846154,
+      "missed_mean": 85.99857142857144,
+      "difference": 0.07614010989010467,
+      "pct_diff": 0.08853648220580618,
+      "t_stat": 0.17284661428129805,
+      "p_value": 0.8630560998919641,
+      "significant": false
+    },
+    {
+      "metric": "wrist_max",
+      "made_mean": 204.63432692307694,
+      "missed_mean": 204.69809523809522,
+      "difference": -0.06376831501827951,
+      "pct_diff": -0.03115237342297064,
+      "t_stat": -0.15362134209302292,
+      "p_value": 0.878160063477929,
+      "significant": false
+    },
+    {
+      "metric": "shoulder_max",
+      "made_mean": 114.49759615384616,
+      "missed_mean": 114.44095238095237,
+      "difference": 0.05664377289379274,
+      "pct_diff": 0.049496069121511936,
+      "t_stat": 0.1326653213743802,
+      "p_value": 0.8946748584441079,
+      "significant": false
+    },
+    {
+      "metric": "wrist_release",
+      "made_mean": 198.86636892128712,
+      "missed_mean": 198.8453056947926,
+      "difference": 0.021063226494533183,
+      "pct_diff": 0.010592770305004384,
+      "t_stat": 0.10920007830053309,
+      "p_value": 0.9132217519172068,
+      "significant": false
+    },
+    {
+      "metric": "knee_min",
+      "made_mean": 125.60394230769232,
+      "missed_mean": 125.6004761904762,
+      "difference": 0.0034661172161207787,
+      "pct_diff": 0.0027596370023823215,
+      "t_stat": 0.0084457416883945,
+      "p_value": 0.9932750362405418,
+      "significant": false
+    }
+  ],
+  "correlations": {
+    "hip_rom_vs_arc": {
+      "r": -0.16268825057235306,
+      "p": 0.06987297675223116
+    },
+    "knee_rom_vs_arc": {
+      "r": -0.009212497168530114,
+      "p": 0.9187834651129091
+    },
+    "ankle_rom_vs_arc": {
+      "r": 0.027277602975961476,
+      "p": 0.762678577054049
+    },
+    "shoulder_rom_vs_arc": {
+      "r": 0.05326489129952913,
+      "p": 0.5552202489338176
+    },
+    "elbow_rom_vs_arc": {
+      "r": 0.11517314712141036,
+      "p": 0.20089729831456016
+    },
+    "wrist_rom_vs_arc": {
+      "r": 0.05190317632730435,
+      "p": 0.5653907133498947
+    }
+  },
+  "efficiency_by_mechanics": [
+    {
+      "mechanic_type": "arm_driven",
+      "arc_type": "high_arc",
+      "makes": 41,
+      "attempts": 49,
+      "fg_pct": 0.837
+    },
+    {
+      "mechanic_type": "arm_driven",
+      "arc_type": "low_arc",
+      "makes": 38,
+      "attempts": 47,
+      "fg_pct": 0.809
+    },
+    {
+      "mechanic_type": "hip_driven",
+      "arc_type": "high_arc",
+      "makes": 10,
+      "attempts": 11,
+      "fg_pct": 0.909
+    },
+    {
+      "mechanic_type": "hip_driven",
+      "arc_type": "low_arc",
+      "makes": 15,
+      "attempts": 18,
+      "fg_pct": 0.833
+    }
+  ],
+  "wnba_application": {
+    "wnba_guard": {
+      "height_ft": 5.75,
+      "release_height": 7.75,
+      "optimal_arc": 49.5,
+      "required_velocity": 23.67324921896431,
+      "entry_angle": 41.05096330428352,
+      "hip_power_pct": 20.7,
+      "knee_power_pct": 23.8,
+      "lower_body_total": 56.875
+    },
+    "wnba_forward": {
+      "height_ft": 6.0,
+      "release_height": 8.0,
+      "optimal_arc": 49.0,
+      "required_velocity": 23.47860440505143,
+      "entry_angle": 41.467088054469755,
+      "hip_power_pct": 20.4,
+      "knee_power_pct": 23.6,
+      "lower_body_total": 56.25
+    },
+    "wnba_center": {
+      "height_ft": 6.33,
+      "release_height": 8.33,
+      "optimal_arc": 48.0,
+      "required_velocity": 23.223562717188134,
+      "entry_angle": 41.60334166401594,
+      "hip_power_pct": 19.8,
+      "knee_power_pct": 23.200000000000003,
+      "lower_body_total": 55.00000000000001
+    },
+    "nba_guard": {
+      "height_ft": 6.17,
+      "release_height": 8.33,
+      "optimal_arc": 48.0,
+      "required_velocity": 23.223562717188134,
+      "entry_angle": 41.60334166401594,
+      "hip_power_pct": 19.8,
+      "knee_power_pct": 23.200000000000003,
+      "lower_body_total": 55.00000000000001
+    },
+    "nba_forward": {
+      "height_ft": 6.67,
+      "release_height": 8.75,
+      "optimal_arc": 47.5,
+      "required_velocity": 22.902078443794657,
+      "entry_angle": 42.75776440638046,
+      "hip_power_pct": 19.5,
+      "knee_power_pct": 23.0,
+      "lower_body_total": 54.37500000000001
+    },
+    "nba_center": {
+      "height_ft": 6.92,
+      "release_height": 9.25,
+      "optimal_arc": 46.5,
+      "required_velocity": 22.524318542093976,
+      "entry_angle": 43.644827085736466,
+      "hip_power_pct": 18.9,
+      "knee_power_pct": 22.6,
+      "lower_body_total": 53.125
+    }
+  },
+  "recommendations": [
+    "Increase shoulder_mean_velocity: Made=3.4, Missed=3.1",
+    "Decrease knee_prep: Made=131.0, Missed=131.5",
+    "Decrease hip_release: Made=164.3, Missed=164.6",
+    "Decrease wrist_peak_velocity: Made=9.6, Missed=10.6",
+    "Increase shoulder_peak_velocity: Made=11.0, Missed=10.1"
+  ]
+}
