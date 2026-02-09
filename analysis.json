@@ -1,0 +1,38 @@
+{
+  "spl": {
+    "made": 102.40889420236626,
+    "missed": 97.76256471797865
+  },
+  "videos": {
+    "ray_allen": {
+      "elbow_rom": 134.3,
+      "min": 40.5,
+      "max": 174.7,
+      "frames": 190
+    },
+    "devin_booker": {
+      "elbow_rom": 94.5,
+      "min": 80.2,
+      "max": 174.7,
+      "frames": 160
+    },
+    "jimmy_butler": {
+      "elbow_rom": 118.5,
+      "min": 56.3,
+      "max": 174.8,
+      "frames": 95
+    },
+    "stephen_curry": {
+      "elbow_rom": 89.5,
+      "min": 85.5,
+      "max": 175.0,
+      "frames": 156
+    },
+    "jason_tatum": {
+      "elbow_rom": 76.3,
+      "min": 98.6,
+      "max": 174.9,
+      "frames": 198
+    }
+  }
+}
